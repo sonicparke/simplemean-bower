@@ -1,0 +1,11 @@
+{
+    "name": "simplemean-bower",
+    "version": "1.0.0",
+    "dependencies": {
+        "bootstrap-css-only": "latest",
+        "angular-ui-bootstrap-bower": "latest",
+        "font-awesome": "latest",
+        "angular": "latest",
+        "restangular": "latest"
+    }
+}
