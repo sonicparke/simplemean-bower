@@ -1,0 +1,8 @@
+node_modules
+public
+.tmp
+.sass-cache
+app/libs
+heroku
+/views
+dist
